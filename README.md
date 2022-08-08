@@ -3,14 +3,19 @@ https://animessearch.netlify.app/
 
 # Sobre o projeto
 
-Anime search é um projeto criado para aprender mais sobre como trabalhar com uma api. 
+É um projeto criado com o intuito de praticar como trabalhar com uma api. 
 
-Consiste em uma pesquisa onde é necessário o nome de um anime, e será retornado o card do anime respectivo. Ao clicar sobre o card o usuário será redirecionado para a página do anime no [MyAnimeList](https://myanimelist.net/)
+Consiste em uma pesquisa onde é necessário o nome de um anime, ao pesquisar, será retornado o card do respectivo anime. 
+Ao clicar sobre o card o usuário será redirecionado para a página do anime no [MyAnimeList](https://myanimelist.net/)
 
 ## Layout web
+![Web padrão](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/web%20tema%20padrao.PNG) 
+
+![Web gif](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/animeSearch.gif)
 
 ## Layout mobile 
 
+![Mobile gif](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/mobile%20gif.gif)
 
 # Tecnologias utilizadas
 
@@ -18,6 +23,8 @@ Consiste em uma pesquisa onde é necessário o nome de um anime, e será retorna
 - HTML 
 - ReactJS
 - Styled Components 
+- Jikan api
+
 
 # Como rodar o projeto:
 Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
